@@ -44,3 +44,25 @@
     font-weight: bold;
     color: white;
 }
+.main-container-aditionals{
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 0;
+    height: 100vh;
+}
+.main-aditional-1 {
+    color: white;
+    background-color: rgba(90,9,6,255);
+    width: 25%;
+    height: 100%;
+}
+.main-aditional-2 {
+    color: white;
+    background-color: rgba(90,9,6,255);
+    width: 75%;
+    height: 100%;
+    font-size: 80px;
+    text-align: justify;
+    vertical-align: middle;
+    padding: 150px 150px;
+}
